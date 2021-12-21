@@ -7,4 +7,4 @@ Requirements:
 Installation: 
 1. Download File> Unzip Folder> Paste CRUDProject folder to C:xampphtcdocs 
 2. Open XAMPP Control Panel> Start Apache and MySQL servers 
-3. Open default browser> Type localhost/CRUDProject
+3. Open default browser> Type localhost/friends
